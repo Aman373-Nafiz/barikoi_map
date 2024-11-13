@@ -7,7 +7,7 @@ import 'package:latlong2/latlong.dart';
 import 'package:geocoding/geocoding.dart';
 import 'package:provider/provider.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'LocationProvider.dart';
+import '../Provider/LocationProvider.dart';
 import 'package:flutter_map_marker_popup/flutter_map_marker_popup.dart';
 
 class MapScreen extends StatefulWidget {

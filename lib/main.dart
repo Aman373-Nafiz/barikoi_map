@@ -1,10 +1,10 @@
-import 'package:barikoi_map/MapScreen.dart';
+import 'package:barikoi_map/Screens/MapScreen.dart';
 
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'LocationProvider.dart';
-import 'MapScreen.dart';
-import 'LocationProvider.dart';
+import 'Provider/LocationProvider.dart';
+import 'Screens/MapScreen.dart';
+import 'Provider/LocationProvider.dart';
 
 void main() {
   runApp(MultiProvider(
