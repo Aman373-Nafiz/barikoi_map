@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a local map app made using flutter.The main purpose of this app is to show the current location using geocoding the user coordinate.
+For this specific app we used Barikoi API and implemented using FlutterMap.
 
 A few resources to get you started if this is your first Flutter project:
 
